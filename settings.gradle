@@ -1,0 +1,2 @@
+rootProject.name='Sturzerkennung'
+include ':app'
